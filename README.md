@@ -17,3 +17,34 @@ The goal is to improve the user interface, add custom features, and document the
 
 ## 📁 Folder Structure
 
+
+---
+
+## 🚀 Technologies Used
+
+- Shopify (Dawn Theme v15.3)
+- HTML / CSS / Liquid
+- Shopify Admin & Theme Editor
+
+---
+
+## 📸 Screenshots
+
+_![image](https://github.com/user-attachments/assets/00b67c6b-7142-48d7-837e-e51dedcda9bc)
+_
+
+---
+
+## 🧠 What I Learned
+
+- Working with Shopify’s Liquid templating language
+- Safe theme editing through duplication
+- Using GitHub to track code changes
+- Structuring a frontend project for reusability
+
+---
+
+## 👤 Author
+
+**papall714**  
+GitHub: [https://github.com/papall714](https://github.com/papall714)
